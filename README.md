@@ -23,7 +23,9 @@ The device(s) need to have password disabled:
   * Connect to the device
   * Enter default password (was 888888) for me
   * Click 'more'
+  * Click old password, type old password
   * Set empty new password
+  * Click 'Save'
   * Click 'Submit'
 
 ### Install component:
